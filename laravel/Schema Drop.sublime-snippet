@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Schema::dropIfExists('${1:tableName}');
+]]></content>
+	<tabTrigger>Schema-drop</tabTrigger>
+	<description>Laravel: Schema::dropIfExists()</description>
+</snippet>
